@@ -1,0 +1,6 @@
+{
+  "name": "Presupuesto Familiar 2027",
+  "description": "Sistema de planificación y seguimiento presupuestario familiar 2027 anual, mensual y diario con alertas de sobregasto y superávit, categorización automática supervisada y exportación a PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
